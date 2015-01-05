@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:039367_0000_10140013858D3BF0"/>
-            <pb facs="tcp:039367_0001_101400188B68E600" rendition="simple:additions"/>
+            <pb facs="unknown:039367_0000_10140013858D3BF0"/>
+            <pb facs="unknown:039367_0001_101400188B68E600"
+                rendition="simple:additions"/>
             <head>JUDGE of the Probate of Wills and for Granting Letters of Admini<g ref="char:EOLhyphen"/>ſtration on the Eſtates of Perſons Deceaſed, having Goods, Chattels, Rights or Credits in the County of  <gap reason="blank" extent="1 word">
                   <desc> _____ </desc>
                </gap>  within the Province aforeſaid  <gap reason="blank" extent="1 word">
